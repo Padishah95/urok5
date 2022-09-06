@@ -2,7 +2,7 @@
 
 
 Console.Clear();
-Console.WriteLine($"Задача 34. Количество чётных чисел в массиве:\n");
+Console.WriteLine($" Количество чётных чисел в массиве:\n");
 int[] numbers = new int[10];
 
 void FillArray(int[] array, int min, int max){
